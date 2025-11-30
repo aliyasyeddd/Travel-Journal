@@ -63,7 +63,7 @@ Reflect briefly on your takeaways:
 
 ![App Screenshot](./images/demo.png)  
 
-🔗 **Live Demo:** [https://your-demo-link.vercel.app](https://your-demo-link.vercel.app)  
+🔗 **Live Demo:** (https://travel-journal-fawn-one.vercel.app/)  
 
 ---
 
